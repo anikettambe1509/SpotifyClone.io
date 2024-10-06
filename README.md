@@ -1,4 +1,4 @@
-The Spotify Clone Frontend project is a web-based application designed to replicate the core functionality and user interface of Spotify, focusing on music streaming and user experience. Built using modern web technologies like React.js and Tailwind CSS, it provides a sleek and responsive design along with key features of a music streaming service.
+The Spotify Clone is a frontend project which is a web-based application designed to replicate the core functionality and user interface of Spotify, focusing on music streaming and user experience. Built using modern web technologies like React.js and Tailwind CSS, it provides a sleek and responsive design along with key features of a music streaming service.
 
 Key Features:
 1) Homepage: Displays curated playlists, recently played songs, and personalized recommendations.
